@@ -6,7 +6,7 @@
 
 | 🎖️ **Conference Publication** | 📘 **Research Paper** | 💾 **Repository** | 🧑‍💻 **Lead Developer** |
 | :--- | :--- | :--- | :--- |
-| **ICCUBEA-2025** | `research_paper_ICCUBEA2025.pdf` | [GitHub Link](https://www.google.com/search?q=https://github.com/%3Cyour-username%3E/Construction-Site-Safety-Detection) | [Chandrakant Thakare](https://www.google.com/search?q=https://github.com/Chandrakant-Thakare) |
+| **ICCUBEA-2025** | `research_paper_ICCUBEA2025.pdf` | [GitHub Link](https://github.com/chandu5t/Smart-Detection-for-Construction-Safety-Project) | [Chandrakant Thakare](https://github.com/chandu5t) |
 
 -----
 
@@ -207,4 +207,5 @@ In Proceedings of ICCUBEA-2025 (PCCOE Pune).
 This project is released under the **MIT License**. You are free to use, modify, and distribute the code, provided you include the original copyright and license notice.
 
 -----
+
 
