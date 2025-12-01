@@ -1,0 +1,36 @@
+# Core
+python==3.10
+numpy
+pandas
+matplotlib
+seaborn
+
+# PyTorch (CPU version)
+torch
+torchvision
+torchaudio
+
+# YOLO / Ultralytics
+ultralytics
+
+# Image Processing
+opencv-python
+Pillow
+
+# Jupyter / Notebook
+jupyter
+ipykernel
+
+# Utilities
+tqdm
+scikit-learn
+scipy
+
+# Visualization
+plotly
+
+# File handling / operations
+python-dotenv
+
+# Optional (Useful but not required)
+imutils

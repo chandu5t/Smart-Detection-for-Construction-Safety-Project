@@ -1,0 +1,16 @@
+# Virtual env
+venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model weights (if not using Git LFS)
+*.pt
+
+# Dataset zips
+*.zip
+
+# OS junk files
+.DS_Store
+Thumbs.db
