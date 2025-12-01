@@ -4,11 +4,6 @@
 # 🏗️ Construction Site Safety Detection  
 ### AI-Based Detection of Construction Helmets & Safety Vests Using YOLO Models  
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)]()  
-[![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)]()  
-[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)]()  
-[![Conference](https://img.shields.io/badge/Published-ICCUBEA--2025-green)]()
-
 ---
 
 ## 📘 **Project Overview**
@@ -226,7 +221,5 @@ You may use, modify, and distribute it with proper credit.
 ## ⭐ **Support the Project**
 
 If you found this project helpful, please ⭐ **star the repository** — your support encourages further research and development!
-
+---
 ```
-
-
