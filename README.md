@@ -1,8 +1,4 @@
-That's a fantastic project\! I can certainly restructure the README to be more engaging, professional, and visually appealing using clear Markdown formatting, while keeping all the critical information intact.
 
-Here is the enhanced version:
-
------
 
 # 👷 Construction Site Safety Detection (AI-Powered)
 
@@ -211,3 +207,4 @@ In Proceedings of ICCUBEA-2025 (PCCOE Pune).
 This project is released under the **MIT License**. You are free to use, modify, and distribute the code, provided you include the original copyright and license notice.
 
 -----
+
