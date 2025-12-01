@@ -48,11 +48,7 @@ Construction-Site-Safety-Detection/
 │
 ├── 📜 research_paper_ICCUBEA2025.pdf     # Published Research Paper (ICCUBEA-2025)
 ├── 📈 presentation_ICCUBEA2025.pptx      # Conference Presentation Slides
-│
-├── 📦 models/
-│   ├── helmet_detection.pt                # Trained YOLOv8 weights for Helmet Detection
-│   └── safety_vest_detection.pt           # Trained YOLOv8 weights for Safety Vest Detection
-│
+│    
 └── 📊 dataset/
     ├── train/images/ & labels/          # Training Data
     ├── valid/images/ & labels/          # Validation Data
@@ -207,5 +203,6 @@ In Proceedings of ICCUBEA-2025 (PCCOE Pune).
 This project is released under the **MIT License**. You are free to use, modify, and distribute the code, provided you include the original copyright and license notice.
 
 -----
+
 
 
